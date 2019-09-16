@@ -1,0 +1,25 @@
+<%-- 
+    Document   : footer
+    Created on : 16/09/2019, 11:39:47
+    Author     : beatriz
+--%>
+
+<%@page contentType="text/html" pageEncoding="UTF-8"%>
+<div class="d-flex bd-highlight mb-3 container2">
+    <div class="p-2 bd-highlight">
+        <p>Desenvolvido por<p>
+        <p class="b">Beatriz Diegues</p>
+        <p class="b">Debora Cristina</p>
+               
+    </div>
+    <div class="p-2 bd-highlight"></div>
+    <div class="p-2 bd-highlight">
+        
+        <div>
+            <a class="nav-item nav-link" href="home.jsp">Home</a>
+            <a class="nav-item nav-link" href="listarAlbum.jsp">Álbuns</a>
+            <a class="nav-item nav-link" href="listarMusica.jsp">Músicas</a>
+            <a class="nav-item nav-link" href="listarBanda.jsp">Bandas</a>
+        </div>
+    </div>
+</div>
