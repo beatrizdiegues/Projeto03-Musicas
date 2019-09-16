@@ -8,9 +8,13 @@
 <!DOCTYPE html>
 <html>
     <head>
+       
+
+
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
         <title>Projeto POO 003</title>
         <style>
+            
         * {
             box-sizing: border-box;
           }
@@ -43,6 +47,16 @@
           background-color: #ddd;
           color: black;
         }
+        .footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: black;
+  color: white;
+  text-align: center;
+}
+ 
         </style>
     </head>
 <body>
@@ -59,21 +73,25 @@
     <div class="row">
   <div class="column side">
     <h2>Discos</h2>
-    <p> Total de 1 disco cadastrado.</p>
+    <p >Total de 1 disco cadastrado </p>
+    
   </div>
   
   <div class="column middle">
-    <h2>Musica</h2>
-    <p>Total de 10 músicas cadastrada.</p>
+    <h2>Musicas</h2>
+    <p>Total de 10 músicas cadastradas.</p>
   </div>
   
   <div class="column side">
     <h2>Banda</h2>
-    <p> Total de 1 banda cadastradas.</p>
+    <p> Total de 1 banda cadastrada.</p>
   </div>
 </div>
 
-
+<div class="footer">
+  <p>Projeto criado pelos alunos do 4° Ciclo de ADS - Disciplina POO - All Rights Reserved</p>
+</div>
+    
 </body>
 </html>
         
