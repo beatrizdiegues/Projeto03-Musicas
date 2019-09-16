@@ -1,6 +1,6 @@
 <%-- 
-    Document   : index
-    Created on : 15/09/2019, 19:22:42
+    Document   : listar
+    Created on : 15/09/2019, 19:23:17
     Author     : User
 --%>
 
@@ -12,6 +12,7 @@
         <title>JSP Page</title>
     </head>
     <body>
-        <h1>Hello World!</h1>
+        <h1>Listar</h1>
+        
     </body>
 </html>
